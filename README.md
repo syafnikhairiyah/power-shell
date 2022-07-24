@@ -7,3 +7,5 @@ bash script named datafilter-script.sh is code for filtering purchase activity d
 bash script named datasamsung-script.sh is code for selecting samsung product data only
 bash script named keterangankolom-script.sh is code for selecting header of the column
 bash script named splitting-script.sh is code for splitting category_code column into category and product name
+
+test
