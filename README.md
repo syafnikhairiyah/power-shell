@@ -8,4 +8,6 @@ bash script named datasamsung-script.sh is code for selecting samsung product da
 bash script named keterangankolom-script.sh is code for selecting header of the column
 bash script named splitting-script.sh is code for splitting category_code column into category and product name
 
+before running these codes, make sure required files have been downloaded with the same file name, apt needed have been installed in the directory, and have enough space to store csv files.
+
 in order to analyze the data clearly, most of bash codes are aiming to save huge csv files. you can reduce it by deleting >> <file name>.csv in the bash codes.
